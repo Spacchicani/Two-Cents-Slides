@@ -1,0 +1,111 @@
+.left-column {
+  float: left;
+  width: 45%;
+  padding-right: 5%;
+  justify-content: center;
+}
+
+.left-column img {
+  width: 100%;       
+  height: auto;      
+  display: block;    
+  max-width: 100%;
+}
+
+.right-column {
+  float: right;
+  width: 45%;
+  max-height: 80%;
+  justify-content: center;
+}
+
+.right-column img {
+  max-width: 100%;       
+  height: auto;      
+  display: block;    
+  max-width: 100%;
+  justify-self: center;
+}
+
+section {
+  overflow: hidden;
+  padding: 2em;
+  background-color: #e20000bf;
+  color:#ea0a0abf ;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 1em;
+  font-size: 0.8em;
+  color: #555;
+}
+
+.footnote .red {
+  color: red;
+}
+
+body {
+  font-family: 'Droid Serif', serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: normal;
+  color: rgb(19, 4, 67);
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: rgb(19, 4, 67);
+}
+
+.remark-code,
+.remark-inline-code {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.remark-slide-content {
+    background-color: #e8e4e4;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: table-cell;
+    font-size: 20px;
+    padding: 1em 4em 1em 4em;
+}
+
+.backg {
+
+  position: relative;
+  height: 100%;
+
+}
+
+.cover {
+  background-image: url('/images/CENTESIMI.jpg');
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat;
+}
+
+.cover1 {
+  background-image: url('/images/Musicode.jpg');
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat;
+}
+
+.cover2 {
+  background-image: url('/images/Boots.png');
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat;
+}
+
+.img {
+
+  max-width: 100%;
+}
