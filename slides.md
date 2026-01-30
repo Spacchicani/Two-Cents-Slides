@@ -18,7 +18,7 @@ class: center
 
 ## What is 2Cents?
 
-![Screen Layout](/images/Screen2025.png)
+![Screen Layout](images/Screen2025.png)
 
 ]
 
@@ -66,7 +66,7 @@ Using existing sites as an ideal blueprint allowed me to experiment with structu
 The abundance of **cross-links**, reviews, and embedded media provides a model to reproduce features like **dropdown** and **pop-up menus**, **scrolling tickers** and **Spotify player**
 
 <video autoplay loop muted playsinline style="width:100%; border-radius:8px;">
-  <source src="/images/REC.mp4" type="video/mp4">
+  <source src="images/REC.mp4" type="video/mp4">
 </video>
 
 ]
@@ -87,7 +87,7 @@ class: center
 
 ## What's behind the scenes?
 
-![](/images/Diagram.png)
+![](images/Diagram.png)
 
 ]
 
@@ -161,7 +161,7 @@ class: center
 
 .right-column[
 
-![](images/Screen_mobile.png)
+![](images/Screenmobile.png)
 
 ]
 
@@ -300,3 +300,4 @@ class: center, middle
 
 
 .footnote[A project by Baldo Lazzara]
+
