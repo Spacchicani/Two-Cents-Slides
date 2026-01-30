@@ -153,7 +153,7 @@ class: center
 
 .left-column[  
 
-![](/images/Screenpc.png)
+![](images/Screenpc.png)
 
 ### These are two different visualizations, both for desktop and mobile screens
 
@@ -161,7 +161,7 @@ class: center
 
 .right-column[
 
-![](/images/Screen_mobile.png)
+![](images/Screen_mobile.png)
 
 ]
 
@@ -192,7 +192,7 @@ This approach helped me to keep the work structure solid while allowing **creati
 
 I also found some templates on <a href="https://stackoverflow.com/questions/12349985/how-to-create-a-news-ticker" style= "text-style:" > Stack Overflow </a>, like the menu button, which I customized and adapted to my work <br>
 
-![](/images/Bottone.png) <br>
+![](images/Bottone.png) <br>
 
 I never thought coding community was so **cooperative** and **passionate** about their work!
 
@@ -227,7 +227,7 @@ Scrolling activates the **pop-up menu** and other animations, creating a sense o
 
 JavaScript checks **input fields** in real-time, like **email addresses** requiring a valid `@` and domain, it also provides instant **visual feedback**, highlighting mistakes and guiding users toward proper input.
 
-![](/images/Errori.png)
+![](images/Errori.png)
 
 ]
 
@@ -245,7 +245,7 @@ class: center
 
 Overall, I hope that the website came together as a **small** but **functional** project. It’s not a real music review platform **(reviews are NOT real!)** but it *feels like* one thanks to the interactive menus, ticking news bar, and embedded Spotify players.<br>
 
-![](/images/Spotify1.png)
+![](images/Spotify1.png)
 ]
 
 .right-column[
@@ -297,5 +297,6 @@ Overall, it’s satisfying to see how a simple concept can become a **functional
 class: center, middle
 
 # Thank you.
+
 
 .footnote[A project by Baldo Lazzara]
