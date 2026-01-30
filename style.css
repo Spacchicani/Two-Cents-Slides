@@ -5,8 +5,7 @@
   justify-content: center;
 }
 
-.left-column img {
-  width: 100%;       
+.left-column img {       
   height: auto;      
   display: block;    
   max-width: 100%;
@@ -110,5 +109,6 @@ p {
   max-width: 100%;
 
 }
+
 
 
