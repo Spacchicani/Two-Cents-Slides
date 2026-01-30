@@ -85,21 +85,21 @@ p {
 }
 
 .cover {
-  background-image: url('/images/CENTESIMI.jpg');
+  background-image: url('images/CENTESIMI.jpg');
   background-size: cover;       
   background-position: center;  
   background-repeat: no-repeat;
 }
 
 .cover1 {
-  background-image: url('/images/Musicode.jpg');
+  background-image: url('images/Musicode.jpg');
   background-size: cover;       
   background-position: center;  
   background-repeat: no-repeat;
 }
 
 .cover2 {
-  background-image: url('/images/Boots.png');
+  background-image: url('images/Boots.png');
   background-size: cover;       
   background-position: center;  
   background-repeat: no-repeat;
@@ -108,4 +108,5 @@ p {
 .img {
 
   max-width: 100%;
+
 }
