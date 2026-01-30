@@ -85,7 +85,7 @@ p {
 }
 
 .cover {
-  background-image: url('main/images/CENTESIMI.jpg');
+  background-image: url('images/CENTESIMI.jpg');
   background-size: cover;       
   background-position: center;  
   background-repeat: no-repeat;
@@ -110,4 +110,5 @@ p {
   max-width: 100%;
 
 }
+
 
